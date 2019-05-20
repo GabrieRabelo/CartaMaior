@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Carta
+comment1.params=
+comment1.target=Carta()
+comment1.text=\r\n\ Cria\ uma\ nova\ carta.\r\n
+comment2.params=
+comment2.target=void\ sorteia()
+comment2.text=\r\n\ Gera\ o\ valor\ e\ naipe\ para\ uma\ carta.\r\n
+comment3.params=
+comment3.target=int\ getValor()
+comment3.text=\r\n\ Retorna\ o\ valor\ da\ carta.\r\n
+comment4.params=
+comment4.target=int\ getNaipe()
+comment4.text=\r\n\ Retorna\ o\ valor\ do\ naipe.\r\n
+comment5.params=
+comment5.target=boolean\ estaAberta()
+comment6.params=
+comment6.target=void\ abre()
+comment7.params=
+comment7.target=void\ fecha()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
